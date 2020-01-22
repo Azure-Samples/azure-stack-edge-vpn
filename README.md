@@ -1,24 +1,17 @@
 ---
 page_type: sample
 languages:
-- csharp
+- azure-cli
+- azurepowershell
 products:
-- dotnet
-description: "Add 150 character max description"
-urlFragment: "update-this-to-unique-url-stub"
+- azure-stack
+- azure-virtual-machines
+
 ---
 
-# Official Microsoft Sample
+# Configure a VPN using Azure PowerShell for Azure Stack Edge
 
-<!-- 
-Guidelines on README format: https://review.docs.microsoft.com/help/onboard/admin/samples/concepts/readme-template?branch=master
-
-Guidance on onboarding samples to docs.microsoft.com/samples: https://review.docs.microsoft.com/help/onboard/admin/samples/process/onboarding?branch=master
-
-Taxonomies for products and languages: https://review.docs.microsoft.com/new-hope/information-architecture/metadata/taxonomies?branch=master
--->
-
-Give a short description for your sample here. What does it do and why is it important?
+This sample shows how to configure a VPN using Azure PowerShell for Azure Stack Edge.
 
 ## Contents
 
